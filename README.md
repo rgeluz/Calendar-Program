@@ -1,12 +1,12 @@
 # Calendar-Program
 Assignment for "INF 122 Software Design: Structure and Implementation". The assignment demonstrates the ability to implement the object-oriented design from a previously created UML Class Diagram, all written in Java and with built-in Java Libraries. Also to identify areas for improvement in the code base and to apply two common design patterns and two refactoring methods to the project.
 
-  Design Patterns Implemented:
-    Singleton Pattern
-    Template Method Pattern
-  Refactoring Methods Implemented:
-    Introduce Null Object
-    Encapsulate Collection
+  *Design Patterns Implemented:
+    1. Singleton Pattern
+    2. Template Method Pattern
+  *Refactoring Methods Implemented:
+    1. Introduce Null Object
+    2. Encapsulate Collection
 
 
 #To run CalendarProgram
